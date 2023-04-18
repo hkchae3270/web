@@ -1,0 +1,8 @@
+VO: value object
+DTO: data transfer object
+--------------------------
+DAO: data access object
+
+http://localhost:8898/web00/one2.jsp?no=53
+http://localhost:8898/web00/one2.jsp?no=52
+http://localhost:8898/web00/one2.jsp?no=51
